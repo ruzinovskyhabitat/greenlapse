@@ -4,7 +4,11 @@ Copied from [Raspberry Pi Learning Resources](https://www.raspberrypi.org/learni
 
 crontab should be set to `*/5 * * * * /home/pi/Documents/greenlapse/camera.sh 2>&1`
 
-## Creating animation
+## Setup
+
+<img src="http://i.imgur.com/FdiPk4f.jpg" />
+
+## Making animation
 
 Set up Automator Service for Finder with the following command
 
