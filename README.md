@@ -8,7 +8,13 @@ Script auto uploads to kootchaw.net, don't forget to set correct ssh keys.
 
 ## Setup
 
-<img src="http://i.imgur.com/FdiPk4f.jpg" />
+v 0.2 "Spiderwebmount"
+
+<img src="http://i.imgur.com/oQwGl25.png" width="300" />
+
+v 0.1 "Geňomount"
+
+<img src="http://i.imgur.com/FdiPk4f.jpg" width="300" />
 
 ## Making animation
 
